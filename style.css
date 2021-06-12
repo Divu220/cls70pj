@@ -1,0 +1,20 @@
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv hr{
+    width: 230px;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.environment_li {
+    margin-top: 13px;
+
+}
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding:8px;
+}
